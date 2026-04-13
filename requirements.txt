@@ -1,0 +1,8 @@
+openai>=1.0.0
+azure-search-documents
+azure-storage-blob
+azure-core
+python-dotenv
+pypdf
+tiktoken
+numpy

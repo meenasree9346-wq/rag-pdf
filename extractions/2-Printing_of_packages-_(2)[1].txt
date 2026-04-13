@@ -1,0 +1,288 @@
+Food Packaging- Lesson 2
+Printing of packages, barcodes and other markings
+Printing
+2
+➢It is a process in which text and images are reproduced, typically with ink on
+substrate using a printing press made from letters, photographs and drawing.
+➢The major printing processes are distinguished by (i) the method of image transfer
+and (ii) by the general type of image carrier employed.
+I. Depending upon the process (the printed image is transferred to the substrate
+either directly or indirectly):
+•
+In direct printing the image is transferred directly from the image carrier to the
+substrate. Examples of direct printing are gravure, flexography, screen printing and
+letterpress printing processes.
+•
+In indirect, or offset, printing, the image is first transferred from the image carrier
+to the blanket cylinder and then to the substrate. Lithography, currently the
+dominant printing technology, is an indirect (offset) process.
+II. Depending on the image carriers employed:
+•
+Image carriers (or plates) are generally be classified as relief, planographic,
+intaglio, or screen.
+➢In relief printing, the image or printing area is raised above the non-image areas.
+Letterpress and flexography are relief printing processes.
+➢In planographic printing, the image and non-image areas are on the same plane.
+The image and non-image areas are defined by differing physiochemical properties.
+Lithography is a planographic process.
+➢In the intaglio process, the nonprinting area is at a common surface level with the
+substrate while the printing area, consisting of minute etched or engraved wells of
+differing depth and/or size, is recessed. Gravure is an intaglio process.
+➢In the screen process (also known as porous printing), the image is transferred to
+the substrate by pushing ink through a porous mesh which carries the pictorial or
+typographic image. Screen printing is a porous printing.
+3
+•Offset Printing:
+➢ A widely used printing technique where the inked image is transferred (offset) 
+from a plate to a rubber blanket, then to the printing surface.
+➢Books, newspapers, brochures, stationery.
+•Digital Printing:
+➢A method of printing from a digital-based image directly to a variety of media. It 
+usually refers to professional printing where small-run jobs from desktop 
+publishing and other digital sources are printed using large-format and/or high-
+volume laser or inkjet printers.
+Short runs of books, flyers, business cards, personalized printing.
+•Screen Printing:
+➢ A printing technique where a mesh is used to transfer ink onto a substrate, except 
+in areas made impermeable to the ink by a blocking stencil.
+➢T-shirts, posters, signage, ceramics, glass, metal, wood
+•Flexography:
+A form of printing process which utilizes a flexible relief plate. It is essentially a 
+modern version of letterpress and can be used for printing on almost any type of 
+substrate, including plastic, metallic films, cellophane, and paper.
+Food packaging, labels, wall coverings, gift wrap.
+Gravure Printing:
+: An intaglio printing process, where the image is engraved onto a cylinder. The ink is 
+filled into the engraved areas of the cylinder and transferred onto the paper.
+Magazines, postcards, packaging, wallpapers.
+Letterpress Printing:
+The oldest form of printing text, in which a raised surface (like metal type or a plate) is 
+inked and then pressed to a substrate, usually paper.
+•Stationery, wedding invitations, business cards, fine art prints
+3D Printing:
+➢The process of making a three-dimensional solid object from a digital file by 
+laying down successive layers of material.
+➢Prototyping, manufacturing, medical devices, art and design
+Lithography:
+➢A printing process based on the repulsion of oil and water. The image area is 
+treated to retain ink, while the non-image areas repel ink.
+➢Posters, maps, packaging, books.
+Thermal Printing
+➢ A digital printing process which produces a printed image by selectively heating 
+coated thermochromic paper (thermal paper) when the paper passes over the 
+thermal print head.
+➢ Receipts, shipping labels, barcodes.
+Pad Printing:
+➢ An indirect offset (gravure) printing process, where a silicone pad picks up ink 
+from an etched plate and transfers it to a substrate.
+➢Printing on irregular or curved surfaces like pens, bottles, and electronic
+1. Lithography
+➢Lithography is a method in which printing is
+applied on a smooth surface using chemical
+processes.
+➢In this method, the positive part of an image
+would be a hydrophobic chemical, while the
+negative image would be water.
+➢Thus, the image areas of the surface will be receptive to ink, and the non-image 
+areas will repel ink and be receptive to water.
+➢The image is first set off from the plate to the blanket and then set off from the 
+blanket to the paper. For this reason, lithography is also called offset printing.
+➢Commonly used for large or flat items such as folding cartons, corrugated  
+packaging, and large labels used on packaging and retail displays.
+7
+➢The lithographic process operates with three basic cylinders. They are the plate
+cylinder, the blanket cylinder, and the impression cylinder. All these are plain
+heavy metal cylinders.
+1. The plate cylinder has the printing plate wound around it. This plate is the
+carrier of the image that needs to be printed.
+2. The blanket cylinder has a rubber blanket wound around it. This facilitates the
+transfer of the image from the plate to the blanket, and thereupon to the paper (or
+other substrates), when the substrate is passed between the blanket and the
+impression cylinder.
+3. The impression cylinder is just a bare cylinder that acts to provide the necessary
+pressure to impress the image from blanket to the substrate.
+8
+2. Flexography
+➢It gets its name from the use of a flexible
+relief plate in the process and is often
+used in the printing of food packaging.
+➢Flexography is a direct process where the
+rubber
+printing
+plate
+transfers
+ink
+directly to the printing surface.
+➢This process is similar to relief printing.
+The image is first engraved onto the plate
+with a laser.
+➢Then the ink is transferred from its chamber to an anilox roller where a blade removes
+the excess ink.
+➢After this is completed, the ink is pressed onto the printing surface, and the product is
+coated in the desired finishing
+9
+3. Rotogravure
+➢Gravure is a direct and rotary technique of
+printing on packaging.
+➢Prints
+from
+wrong-reading
+recessed
+image
+cylinder to substrate directly. Hence, it is also
+known as recess printing.
+➢This technique is ideal for very high volumes.
+➢This process includes a rolling cylinder which is engraved with the image that has
+to be printed.
+➢Once completed, it is inked and pressed directly onto the print surface to transfer
+the image.
+➢The rolling cylinder has different cell depths for ink.
+➢This means that deeper cells will have more ink and will be more intense in that print 
+area, whereas a shallow cell with produce a lighter outcome.
+10
+4. Screen printing
+➢It is a pretty simple process to understand and 
+operate
+➢The process derives its name from this silk screen, 
+which was used as the image carrier.
+➢The image that needs to be printed is first captured
+on a photographic material, a positive usually.
+➢The positive image is then transferred to the screen, which is on the porous area of 
+the screen.
+➢The non-image areas are blocked out during the stage of image creation itself.
+➢The screen is laid over the substrate that is to be printed and ink is poured on the 
+frame over the screen.
+➢The ink is then wiped across the surface of the screen using a device called a 
+squeeze, a wooden device that has a rubber blade.
+11
+➢Since the screen is porous in nature, the ink flows through it. Because the image areas
+are porous, they allow ink to flow through them. This ink is thus printed onto the
+substrate beneath
+➢Principal applications: can print on any substrate; point-of purchase displays,
+billboards, decals, fabric, electronic circuit boards, glasses, etc.
+5. Letter press/Relief printing
+➢It is the earliest form of printing and remained
+dominant for a very long time.
+➢As the name of the process says, the image areas
+are in relief and the non-image areas are in recess.
+➢On application of ink, the relief areas are coated
+with a film of ink and the non-image areas are
+not.
+➢With pressure over the substrate to bring it in contact with the image area, the image
+is then transferred to the substrate.
+➢It is widely used for printing on the non-porous substrates required for various types
+of food packaging (it is also well suited for printing large areas of solid color).
+12
+➢Adesign is created on a computer; it may be an 
+individual design or replicated to give several 
+hundreds of impressions.
+➢The ink, usually in powder form, is attracted on to
+the film surface and cured in place.
+➢Special coatings are necessary to receive the ink.
+➢Astandard heat-sealable coating on the reverse side 
+allows the film to be made immediately into 
+packages.
+➢The system as yet is only suitable for narrow web
+widths and is capable of producing test packages
+for market research or promotional campaigns.
+Modern technology in printing: Digital printing
+13
+Barcodes
+➢A bar code may be defined as a series of bars and spaces arranged according to
+the encodation rules of a particular specification in order to represent data.
+➢Its purpose is to represent information in a form that is machine-readable.
+➢Bar codes are read by scanning devices that are programmed to analyze the
+structure of the bars and spaces and transmit the encoded data in electronic
+format.
+Barcodes on food packaging:
+1. Help eliminate food waste in the supply chain
+2.Improve the amount and quality of the 
+information available about the product
+3.Maintain high levels of safety of consumable 
+products
+4. Provide accurate location and quality data about
+the product.
+14
+➢There are several different Barcode Present that serve different uses, industries or
+geographic needs.
+➢Different barcode applications have different data requirements depending on their
+usage.
+➢There are one-dimensional and two-dimensional bar code types – UPC (Universal
+Product Code), EAN (European Article Number) are the two one-dimensional codes
+widely used in the retail industry.
+➢One-dimensional (or 1D bar codes) represent data by varying widths and spacing of
+parallel lines, and may be referred to as one-dimensional.
+➢These include most of the traditional widely used bar code types in the retail
+industry such as UPC and EAN bar codes.
+➢UPC bar codes are used to label and scan consumer goods at points-of-sale - mainly
+in the United States.
+Types of Barcode
+15
+➢EAN bar codes are used to label and scan consumer goods at points-of-sale —
+mainly in the Europe. They look very similar to UPC codes, and the main
+distinction is their geographical application.
+➢GS1 provides standards for use with different bar code symbols. The most widely
+used barcode is GTIN (Global Trade Item Number), a new naming structure for
+retail related barcodes.
+➢GTINs include:
+•
+GTIN-12 (UPC-A): this is a 12-digit number used primarily in NorthAmerica
+•
+GTIN-8 (EAN/UCC-8): this is an 8-digit number used predominately outside of
+NorthAmerica
+•
+GTIN-13 (EAN/UCC-13): this is a 13-digit number used predominately outside of
+NorthAmerica
+•
+GTIN-14 (EAN/UCC-14 or ITF-14): this is a 14-digit number used to identify trade
+items at various packaging levels
+➢GS1 India is a not-for-profit , industry led global standards body headquartered at
+Brussels, Belgium and was setup by Ministry of Commerce and Industry, Govt. of
+India
+16
+•
+UCC-Uniform Civil Code
+•
+ITF- Interleaved Two of Five – mostly used to label secondary packaging
+QR Code
+➢QR code, also known as ‘Quick Response’ code, is
+a
+two-dimensional
+barcode
+that
+can
+store
+information/URL/data.
+➢QR codes stock large data files and use four
+standardized
+encoding
+modes
+(numeric,
+alphanumeric, byte/binary, and kanji).
+➢Adding a QR code on the packaging is an effective 
+communication tool
+➢Because of the QR code’s fast readability and storage capacity, it is predominantly
+used by food industries in compliance with food regulatory measures.
+➢One can instantly access and save the PDF document by scanning the code.
+➢It adds a digital element to ordinary food packaging while ensuring that consumers 
+have access to important nutritional information.
+17
+Advantages of QR Code on Food Packaging
+✓Enhancing Food Safety - QR codes play a
+crucial role in improving food safety by
+enabling traceability throughout the supply
+chain.
+✓Access to Nutritional Information - QR codes
+on food packaging provide a gateway to
+detailed
+nutritional
+information,
+including
+ingredients, allergens, calorie counts, and
+dietary guidelines.
+✓Boosts marketing - QR codes boosts product
+marketing by giving the possibility to add
+online social platforms, video links about the
+product, multilingual product documents, and
+costumer feedback and support .
+18
